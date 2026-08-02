@@ -47,21 +47,6 @@
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sreethan05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreethan05&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sreethan05&theme=tokyonight&hide_border=true" width="97%" alt="Streak Stats" />
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
