@@ -5,10 +5,6 @@
 ### 🤖 AI & Machine Learning Engineer | 💻 Computer Science & Engineering
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Full-Stack+Systems;Computer+Vision+%26+Deep+Learning;Learning+%26+Innovating+Every+Day+🚀" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%2FML%20Systems-emerald?style=for-the-badge" alt="Focus Area"/>
 </p>
 
