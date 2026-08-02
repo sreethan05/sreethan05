@@ -52,29 +52,6 @@
 
 ---
 
-## 🚀 Featured AI/ML Projects
-
-### 👁️ Real-Time Object Detection & Vision Pipeline
-> *A computer vision framework for real-time multi-object identification and spatial analysis.*
-- **Tech Stack**: Python, PyTorch, OpenCV, YOLOv8.
-- **Key Features**: Custom dataset training, real-time FPS optimization, and automated bounding-box spatial tracking.
-
----
-
-### 📊 Predictive Customer Analytics ML Engine
-> *An end-to-end machine learning pipeline predicting retention probabilities with model explainability.*
-- **Tech Stack**: Python, Scikit-Learn, XGBoost, Pandas.
-- **Key Features**: Automated feature scaling, 5-Fold Stratified Cross-Validation, and SHAP model explainability analysis.
-
----
-
-### 💬 NLP Sentiment & Text Classification System
-> *A natural language processing pipeline for automated sentiment analysis and topic modeling.*
-- **Tech Stack**: Python, NLTK, HuggingFace Transformers, Streamlit.
-- **Key Features**: TF-IDF vectorization, transformer text embeddings, and interactive analytics dashboard.
-
----
-
 ## 📈 GitHub Statistics
 
 <div align="center">
