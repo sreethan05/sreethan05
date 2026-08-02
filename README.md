@@ -1,71 +1,97 @@
-# Hi there, I'm Sreethan! 👋 🚀
-
-```typescript
-const sreethan = {
-  role: "AI/ML Systems Engineer & Full-Stack Developer",
-  coreFocus: ["Machine Learning", "Applied AI", "High-Throughput Systems", "Computer Vision"],
-  currentStack: ["Python", "FastAPI", "TypeScript", "React", "PyTorch", "Scikit-Learn", "PostgreSQL"],
-  architecture: ["Edge ML Inference", "Vector Search (pgvector)", "Microservices", "Docker"],
-  location: "India 🇮🇳",
-};
-```
-
----
-
-### 🌟 About Me
-
-- 🔬 **AI & ML Engineering**: Specialized in building end-to-end Machine Learning systems, from model training (Scikit-Learn, XGBoost, PyTorch) to production deployment with FastAPI.
-- ⚡ **Full-Stack Architecture**: Passionate about crafting lightning-fast, modern web applications with React 19, Vite, TypeScript, and Tailwind CSS.
-- 👁️ **Computer Vision & Edge AI**: Experienced in offloading client-side ML models (MediaPipe, TensorFlow.js, WebAssembly) for real-time edge processing.
-- 🗄️ **Databases & Vector Search**: Skilled in relational schema design (PostgreSQL, Alembic) and high-dimensional semantic vector search (`pgvector`).
-
----
-
-### 🛠️ Tech Stack & Toolkit
-
-#### 🧠 Machine Learning & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### 🌐 Backend & Cloud Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-#### 🎨 Frontend & UI/UX
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
----
-
-### 🏆 Featured Project
-
-#### 🚀 [IntelliHire — AI/ML-Powered Enterprise Assessment Platform](https://github.com/sreethan05/intellihire)
-> An enterprise talent acquisition and automated proctoring ecosystem built for high-concurrency recruitment drives.
-
-- **Candidate Job-Fit ML Ranker**: Trained an ensemble model (GradientBoosting + RandomForest + ExtraTrees) with 5-Fold Stratified Cross-Validation & Isotonic Calibration to predict candidate hireability.
-- **Edge Computer Vision Proctoring**: Integrated Web Assembly Web Workers for real-time 3D head-pose & gaze tracking offloading server bandwidth by 70%.
-- **High-Performance Infrastructure**: Instrumented with Prometheus telemetry, sandboxed cgroups code execution, and 100% test coverage across Pytest & Vitest.
-
----
-
-### 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreethan05&show_icons=true&theme=dark&aria-label=GitHub%20Stats" alt="Sreethan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreethan05&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+
+# 👋 Hi, I'm Kasagoni Sai Sreethan
+
+### 🤖 AI & Machine Learning Enthusiast | 💻 Computer Science Engineering Student
+
+### *Building intelligent solutions with data, algorithms, and innovation.*
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Solutions;Learning+Every+Day+🚀" />
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=sreethan05&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sreethan05?style=for-the-badge&logo=github"/>
+</p>
+
 </div>
 
 ---
 
-### 📬 Connect With Me
+# 🧠 About Me
 
-- 🌐 **GitHub**: [github.com/sreethan05](https://github.com/sreethan05)
-- 💼 **LinkedIn**: [linkedin.com/in/sreethan](https://linkedin.com)
+🎓 Computer Science Engineering Student passionate about **Artificial Intelligence, Machine Learning, and Data Science**.
+
+💡 I enjoy solving real-world problems through intelligent systems and continuously improving my programming and analytical skills.
+
+🚀 I believe technology becomes meaningful when it creates positive impact, and I'm excited to explore the endless possibilities of AI.
+
+---
+
+# 🚀 Currently Learning
+
+- 🐍 Python
+- 📊 Data Structures & Algorithms
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📈 Mathematics for AI
+- 🗄 SQL
+- 🌐 Git & GitHub
+
+---
+
+# 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
+</p>
+
+---
+
+# 🤖 AI & Data Science
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+---
+
+# 🛠️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=sreethan05&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreethan05&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=sreethan05&theme=tokyonight&hide_border=true)
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:**  
+**kasagonisaisreethan@gmail.com**
+
+🐙 **GitHub:**  
+**https://github.com/sreethan05**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Learning today. Building tomorrow. Innovating for the future."* 🚀
+
+</div>
