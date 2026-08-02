@@ -20,12 +20,12 @@
 
 ## 🧠 About Me
 
-🎓 **Computer Science Engineering Student** passionate about building production-grade **Artificial Intelligence, Machine Learning, and Intelligent Full-Stack Systems**.
+🎓 **Computer Science Engineering Student** passionate about building production-grade **Artificial Intelligence, Machine Learning, and Intelligent Software Systems**.
 
 - 🔬 **AI & Machine Learning**: Building predictive ML models using `Scikit-Learn`, `XGBoost`, and `PyTorch` with rigorous cross-validation and hyperparameter optimization.
-- 👁️ **Computer Vision & Edge AI**: Experienced in client-side edge ML processing with `MediaPipe`, `OpenCV`, and WebAssembly.
-- ⚡ **Full-Stack Engineering**: Developing high-performance microservices and modern web apps with `FastAPI`, `Python`, `React`, `TypeScript`, and `PostgreSQL`.
-- 💡 **Problem Solving**: Enthusiastic about Data Structures, Algorithms, and solving complex real-world engineering challenges.
+- 👁️ **Computer Vision & Deep Learning**: Experienced in real-time object detection, image classification, and spatial tracking with `OpenCV` and `YOLO`.
+- ⚡ **Software Engineering**: Developing high-performance microservices and software applications with `Python`, `C++`, `Java`, and `SQL`.
+- 💡 **Problem Solving**: Enthusiastic about Data Structures, Algorithms, and solving complex real-world technical challenges.
 
 ---
 
@@ -46,21 +46,33 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-### 🌐 Backend, Databases & DevOps
+### 🌐 Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,git,github,vscode" alt="Tools & Backend"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,postgres" alt="Tools"/>
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured AI/ML Projects
 
-### 🏆 [IntelliHire — AI/ML Enterprise Assessment Platform](https://github.com/sreethan05/intellihire)
-> *A production-grade recruitment and automated proctoring platform powered by Machine Learning and Edge Computer Vision.*
+### 👁️ Real-Time Object Detection & Vision Pipeline
+> *A computer vision framework for real-time multi-object identification and spatial analysis.*
+- **Tech Stack**: Python, PyTorch, OpenCV, YOLOv8.
+- **Key Features**: Custom dataset training, real-time FPS optimization, and automated bounding-box spatial tracking.
 
-- **Predictive Candidate Job-Fit Ranker**: Soft-voting ensemble model (`GradientBoosting` + `RandomForest` + `ExtraTrees`) with 5-Fold Stratified Cross-Validation & Isotonic Probability Calibration.
-- **Edge Computer Vision Proctoring**: WebAssembly Web Worker module executing client-side 3D head-pose & gaze tracking.
-- **High-Throughput Microservices**: FastAPI backend with Prometheus telemetry, Docker sandboxing, and 100% automated test coverage.
+---
+
+### 📊 Predictive Customer Analytics ML Engine
+> *An end-to-end machine learning pipeline predicting retention probabilities with model explainability.*
+- **Tech Stack**: Python, Scikit-Learn, XGBoost, Pandas.
+- **Key Features**: Automated feature scaling, 5-Fold Stratified Cross-Validation, and SHAP model explainability analysis.
+
+---
+
+### 💬 NLP Sentiment & Text Classification System
+> *A natural language processing pipeline for automated sentiment analysis and topic modeling.*
+- **Tech Stack**: Python, NLTK, HuggingFace Transformers, Streamlit.
+- **Key Features**: TF-IDF vectorization, transformer text embeddings, and interactive analytics dashboard.
 
 ---
 
