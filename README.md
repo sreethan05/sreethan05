@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/sreethan05?style=for-the-badge&logo=github&color=3b82f6" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/Focus-AI%2FML%20Systems-emerald?style=for-the-badge" alt="Focus Area"/>
 </p>
 
