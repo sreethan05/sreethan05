@@ -88,7 +88,7 @@ const sreethan = {
 
 [![Email](https://img.shields.io/badge/Email-kasagonisaisreethan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasagonisaisreethan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sreethan05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreethan05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sreethan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreethan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kasagoni%20Sai%20Sreethan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasagoni-sai-sreethan-1b1377329)
 
 ---
 
