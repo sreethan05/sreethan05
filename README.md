@@ -16,12 +16,12 @@ const sreethan = {
 
 ## 🧠 About Me
 
-🎓 **Computer Science Engineering Student** passionate about building production-grade **Artificial Intelligence, Machine Learning, and Intelligent Software Systems**.
+🎓 **Computer Science Engineering Student** from India 🇮🇳, passionate about building things with **AI and Machine Learning** — and about understanding how they actually work under the hood.
 
-- 🔬 **AI & Machine Learning**: Building predictive ML models using `Scikit-Learn`, `XGBoost`, and `PyTorch` with rigorous cross-validation and hyperparameter optimization.
-- 👁️ **Computer Vision & Deep Learning**: Real-time object detection, image classification, and spatial tracking with `OpenCV` and `YOLO`.
-- ⚡ **Software Engineering**: High-performance microservices and software applications with `Python`, `C++`, `Java`, and `SQL`.
-- 💡 **Problem Solving**: Data Structures, Algorithms, and complex real-world technical challenges.
+- 🔬 **AI & Machine Learning**: I enjoy training models with `Scikit-Learn`, `XGBoost`, and `PyTorch`, and learning what makes them good (or bad) at a task.
+- 👁️ **Computer Vision & Deep Learning**: Real-time object detection, image classification, and tracking with `OpenCV` and `YOLO`.
+- ⚡ **Software Engineering**: Building fast, reliable applications with `Python`, `C++`, `Java`, and `SQL`.
+- 💡 **How I learn**: Building real projects, breaking them, and fixing them — one problem at a time.
 
 ---
 
@@ -56,31 +56,6 @@ const sreethan = {
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
----
-
-## 🏆 Featured Project
-
-### 🚀 [IntelliHire — AI/ML-Powered Enterprise Assessment Platform](https://github.com/sreethan05/intellihire)
-
-> An enterprise talent acquisition and automated proctoring ecosystem built for high-concurrency recruitment drives.
-
-- **Candidate Job-Fit ML Ranker** — ensemble model (GradientBoosting + RandomForest + ExtraTrees) with 5-fold stratified cross-validation and isotonic calibration to predict candidate hireability.
-- **Edge Computer Vision Proctoring** — WebAssembly web workers for real-time 3D head-pose and gaze tracking, offloading server bandwidth by 70%.
-- **High-Performance Infrastructure** — Prometheus telemetry, sandboxed code execution, and full test coverage across Pytest and Vitest.
-
----
-
-## 📈 GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sreethan05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Sreethan's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreethan05&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=sreethan05&hide_border=true" width="560" alt="GitHub streak stats" />
-</p>
 
 ---
 
